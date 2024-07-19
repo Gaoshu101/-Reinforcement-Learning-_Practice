@@ -6,9 +6,9 @@
 - [ ] SAC
 - [ ] TD3
 
-ToDo     | Ref
--------- | -----
-▢  | $1600
-▢  | $12
-▢   | https://gymnasium.farama.org/environments/toy_text/frozen_lake/
+ToDo     | Ref| My_Notes
+-------- | -----| -----
+▢  |  |
+▢  |  |
+▢   | https://gymnasium.farama.org/environments/toy_text/frozen_lake/|
 
